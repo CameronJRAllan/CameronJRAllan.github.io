@@ -4,10 +4,9 @@ title: About Me
 subtitle:
 ---
 
-My name is Cameron Allan. I have the following qualities:
+My name is Cameron Allan. I am a Computer Science student at Manchester University, expecting to graduate with a MSc in 2019.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+
 
 What else do you need?
 
