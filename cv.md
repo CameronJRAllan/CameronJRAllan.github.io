@@ -3,8 +3,6 @@ layout: page
 title: CV
 subtitle:
 ---
-
-ducation
 University of Manchester
 Computer Science MEng 2015–2019
 { Have averaged 2:1 / First in semester courework. Awaiting January examination results.

@@ -7,7 +7,6 @@ subtitle:
 My name is Cameron Allan. I am a Computer Science student at Manchester University, expecting to graduate with a MSc in 2019.
 
 
-
 What else do you need?
 
 ### my history
