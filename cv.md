@@ -5,11 +5,17 @@ subtitle:
 ---
 ### University of Manchester  
 #### Computer Science MEng 2015–2019  
-Have averaged 2:1 / First in semester courework. Awaiting January examination results.
+##### (Excerpt from Transcript)
+Networks 
+Distributed Systems - 
+Operating Systems - 
+Imperative Algorithms (C-based Coursework) -
+Java-based Coursework - 
+
 Hereford Sixth Form  
 #### A-Levels 2012-2014  
-* Extended Project Qualification - A*  
 * Computing - A*  
+* Extended Project Qualification - A*  
 * Mathematics - A  
 * History - A  
 
@@ -35,10 +41,10 @@ University of Manchester October 2015 - Present
 * Elected by my peers to represent my year group within the department.  
   
 ### Achievements  
-#### Language Studies: Selected to be sponsored by my University to study abroad in Beijing, China during March-April 2016 as part of a Mandarin language exchange program.
+#### Language Studies: 
+Selected to be sponsored by my University to study abroad in Beijing, China during March-April 2016 as part of a Mandarin language exchange program.
 
 #### Skills  
 Advanced: HTML, CSS, UNIX Administration  
-Intermediate: Java, Python, L  
-A T E X, Visual Basic, PHP, MySQL, Git  
+Intermediate: Java, Python, L A T E X, Visual Basic, PHP, MySQL, Git  
 Familiar With: C, Assembly, Verilog  
