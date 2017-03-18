@@ -3,8 +3,8 @@ layout: page
 title: Projects
 subtitle: Here's Some Of My Work
 ---
-###TrailTogether
+### Trail-Together
 
-###Snake
+### Portable Sensor Array + Web Interface for the ESP8266
 
-###Snake
+### OpenGL Solar System

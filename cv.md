@@ -5,14 +5,15 @@ subtitle:
 ---
 ### University of Manchester  
 #### Computer Science MEng 2015–2019  
-##### (Excerpt from Transcript)
-Networks 
-Distributed Systems - 
+##### (Excerpt from Transcript)     
+Networks - 
+Distributed Systems -     
 Operating Systems - 
 Imperative Algorithms (C-based Coursework) -
 Java-based Coursework - 
+System Architecture - 70.9%
 
-Hereford Sixth Form  
+### Hereford Sixth Form  
 #### A-Levels 2012-2014  
 * Computing - A*  
 * Extended Project Qualification - A*  
@@ -34,15 +35,22 @@ English Teacher February 2015 - May 2015
 
 ### Leadership  
 #### Faculty Board  
-University of Manchester September 2015 - Present  
+Kilburn Volunteers Group January 2017 - Present
+* I run, alongside a research associate at the university, a volunteer group with outreach links to the community, aiming to improve computer literacy for those at risk of homelessness, or part of vulnerable groups in society.
+The Mustard Tree April 2016 - Present
+* I spend 1 day a week teaching an IT class in the Northern Quarter of Manchester.
+University of Manchester September 2015 - 2017  
 * Representing my department as part of the greater University faculty board.  
 Department Student-Staff Committee  
-University of Manchester October 2015 - Present  
+University of Manchester October 2015 - 2017  
 * Elected by my peers to represent my year group within the department.  
   
 ### Achievements  
 #### Language Studies: 
-Selected to be sponsored by my University to study abroad in Beijing, China during March-April 2016 as part of a Mandarin language exchange program.
+Selected to be sponsored by my University to study abroad in Beijing, China during March-April 2016 as part of a Mandarin language exchange program, and to learn about business practices in Asia.
+
+#### StudentHack V
+#### StudentHack VI
 
 #### Skills  
 Advanced: HTML, CSS, UNIX Administration  
