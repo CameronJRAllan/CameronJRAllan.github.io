@@ -1,0 +1,9 @@
+It's a misty, mid-summer morning at my parents house, so armed with a cup of coffee and my the new 
+
+Yelp's recent blog post on how they refactored their code-base (containing approximately 3 million lines), is a great example of why you should never get in that state in the first place.
+
+However, it is also a shining case where it has been addressed in the proper manner rather than letting it fall into further neglect. The rest is a tool that I want to examine further; Undebt. It boasts the ability to tear out bad code patterns automatically, saving many a headache & late working hour for programmers no doubt.
+
+I intend to spend the next few hours trawling my eyes over the code base over at GitHub, which can be found here: https://github.com/Yelp/undebt
+
+Further reading: http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html

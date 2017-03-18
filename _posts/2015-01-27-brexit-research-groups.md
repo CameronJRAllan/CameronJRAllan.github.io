@@ -3,5 +3,18 @@ layout: post
 title: Research Groups and Brexit
 ---
 
-This report describes a campaign of targeted spyware attacks carried out by a sophisticated operator, which we call Stealth Falcon. The attacks have been conducted from 2012 until the present, against Emirati journalists, activists, and dissidents. We discovered this campaign when an individual purporting to be from an apparently fictitious organization called "The Right to Fight" contacted Rori Donaghy. Donaghy, a UK-based journalist and founder of the Emirates Center for Human Rights, received a spyware-laden email in November 2015, purporting to offer him a position on a human rights panel. Donaghy has written critically of the United Arab Emirates (UAE) government in the past, and had recently published a series of articles based on leaked emails involving members of the UAE government.
+Regardless of your political views regarding the recent decision for the United Kingdom to leave the European Union, there is a common thread of agreement between both sides, that in the short term, there is a lot of uncertainty as to what the future holds. If there is one thing investment is apprehensive of, it's uncertainty.
 
+Taking the position of a collaborative research groups, where members will often be spread across several countries, the following criteria will often be applied so as to determine projected success:
+Financial Viability and Funding
+Accessibility (of equipment, labour, information)
+
+Full disclosure, while I have tried to keep the sources used for this piece academically-orientated n their nature (to avoid any biases regarding the vote, associated with traditional newspapers), this is not completely the case.
+
+Sources:
+https://www.theguardian.com/education/2016/jul/12/uk-scientists-dropped-from-eu-projects-because-of-post-brexit-funding-fears
+http://www.standard.co.uk/news/politics/brexit-vote-hits-eu-funding-pot-for-british-universities-a3293431.html
+http://www.universitiesuk.ac.uk/facts-and-stats/Pages/brexit-faq.aspx
+https://www.timeshighereducation.com/news/brexit-vote-sparks-huge-uncertainty-uk-universities
+https://www.timeshighereducation.com/blog/life-after-brexit-what-next-british-universities
+http://www.nature.com/news/e-mails-show-how-uk-physicists-were-dumped-over-brexit-1.20380
