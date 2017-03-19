@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Man vs. Asynchronous Execution (Javascript's Callback Hell)
+title: Man vs. Asynchronous Execution
 ---
 
 I spent the weekend before last at StudentHack V, trying to get some MS-8822's with attached light  and temperature sensors to relay it's data wirelessly back to our Node.JS instance.
