@@ -4,6 +4,7 @@ title: Projects
 subtitle: Here's Some Of My Work
 ---
 ### Meta-Data for Live Music
+## September 2017 - Present
 Working with semantic, linked data related to historical live music performances to remove technical and usability barriers towards accessing this information. To achieve this I am working with Python 3, Qt / PyQt, and the semantic querying language, SPARQL. This project is supervised by Sean Bechhofer.
 
 ### School of Computer Science Cataloguing System
