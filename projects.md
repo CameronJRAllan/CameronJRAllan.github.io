@@ -18,6 +18,5 @@ Created as part of a short, one day Hackathon sponsored by Stanford University. 
 ### Stendhal
 Working with an existing legacy code-base to both improve existing functionality and add new features to a multi-user MMORPG based on a client-server architecture. This was done as part of a small team, with the code-base consisting of approximately 6000 classes and having 1900 JUnit tests associated with it. We used Jenkins to assess our test coverage as well as Git for appropriate version control.
 
-### Portable Sensor Array + Web Interface for the ESP8266
-
 ### OpenGL Solar System
+Created as part of StudentHack, this project was developed as a group of 3 as an educational tool utilising VR (virtual reality) technologies for engaging school children with the solar system and how planets move over time.
