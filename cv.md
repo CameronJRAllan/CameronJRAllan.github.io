@@ -4,14 +4,14 @@ title: CV
 subtitle:
 ---
 ### University of Manchester  
-#### Computer Science MEng 2015–2019  
+#### Computer Science BSc 2015–2018  
 ##### (Excerpt From January 2018)     
-Software Engineering - 68% 
+Software Engineering - 68%  
 Distributed Systems - 90%    
-Cryptography and Network Security - 88%
-Agile Software Methodology: 84%
+Cryptography and Network Security - 88%  
+Agile Software Methodology: 84%  
 User Experience - 90% 
-System Architecture - 70.9%
+System Architecture - 70.9%  
 
 ### Hereford Sixth Form  
 #### A-Levels 2012-2014  
@@ -52,11 +52,12 @@ University of Manchester October 2015 - 2017
 #### Language Studies: 
 Selected to be sponsored by my University to study abroad in Beijing, China during March-April 2016 as part of a Mandarin language exchange program, and to learn about business practices in Asia.
 
-#### StudentHack V
-#### StudentHack VI
-#### SpartaGlobal Hackathon
-
 #### Skills  
 Advanced: HTML, CSS, UNIX Administration, JavaScript, Node.JS, Git
 Intermediate: Java, Python, L A T E X, Visual Basic, PHP, MySQL  
 Familiar With: C, Assembly, Verilog  
+
+### Competitions
+#### StudentHack V
+#### StudentHack VI
+#### SpartaGlobal Hackathon
