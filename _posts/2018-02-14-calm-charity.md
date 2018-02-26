@@ -9,6 +9,6 @@ The tools developed analysed chat messages for particular sentiment (i.e. emotio
 
 I would like to thank all the companies involved, especially CALM for sending representatives from their charity for hosting me for the day, and I hope to continue this work to make a real impact in this area in the near future.
 
-For further information:
-https://www.spartaglobal.com/
+For further information:  
+https://www.spartaglobal.com/  
 https://www.thecalmzone.net/
