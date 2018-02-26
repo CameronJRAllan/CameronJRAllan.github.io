@@ -3,6 +3,7 @@ layout: page
 title: CV
 subtitle:
 ---
+##### <a href="https://www.linkedin.com/in/cameron-allan-06b97295/">LinkedIn</a>
 ### University of Manchester  
 #### Computer Science BSc 2015–2018  
 ##### (Excerpt From January 2018)     
