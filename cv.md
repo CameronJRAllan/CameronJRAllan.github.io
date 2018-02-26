@@ -5,12 +5,12 @@ subtitle:
 ---
 ### University of Manchester  
 #### Computer Science MEng 2015–2019  
-##### (Excerpt from Transcript)     
-Networks - 
-Distributed Systems -     
-Operating Systems - 
-Imperative Algorithms (C-based Coursework) -
-Java-based Coursework - 
+##### (Excerpt From January 2018)     
+Software Engineering - 68% 
+Distributed Systems - 90%    
+Cryptography and Network Security - 88%
+Agile Software Methodology: 84%
+User Experience - 90% 
 System Architecture - 70.9%
 
 ### Hereford Sixth Form  
@@ -21,6 +21,9 @@ System Architecture - 70.9%
 * History - A  
 
 ### Techical Experience   
+#### Software Engineer Internship, University of Manchester
+Working for Professor Jim Miles at the University of Manchester to create a responsive and web-based, Node.JS based cataloguing system for the various internal artefacts stored within the school, with the additional requirement of being able to export this information to a industry-standard format such as KEmu. This required liaising with the universities heritage team as well as several figureheads within the department in order to provide a complete archive of real historical value.
+
 #### Hydro-Logic Bromyard  
 Web Backend Development May 2013   
 * Worked with clients to develop a front-end interface for storing and accessing client location details.  
@@ -51,8 +54,9 @@ Selected to be sponsored by my University to study abroad in Beijing, China duri
 
 #### StudentHack V
 #### StudentHack VI
+#### SpartaGlobal Hackathon
 
 #### Skills  
-Advanced: HTML, CSS, UNIX Administration  
-Intermediate: Java, Python, L A T E X, Visual Basic, PHP, MySQL, Git  
+Advanced: HTML, CSS, UNIX Administration, JavaScript, Node.JS, Git
+Intermediate: Java, Python, L A T E X, Visual Basic, PHP, MySQL  
 Familiar With: C, Assembly, Verilog  
