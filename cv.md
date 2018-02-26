@@ -7,12 +7,13 @@ subtitle:
 ### University of Manchester  
 #### Computer Science BSc 2015–2018  
 ##### (Excerpt From January 2018)     
-Software Engineering - 68%  
-Distributed Systems - 90%    
+Distributed Systems - 90%  
 Cryptography and Network Security - 88%  
-Agile Software Methodology: 84%  
-User Experience - 90% 
-System Architecture - 70.9%  
+Agile Software Methodology - 84%  
+User Experience - 90%  
+Software Engineering - 68%  
+Managing Enterprise - 96%  
+System Architecture - 70.9%      
 
 ### Hereford Sixth Form  
 #### A-Levels 2012-2014  
