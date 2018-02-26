@@ -3,7 +3,7 @@ layout: page
 title: CV
 subtitle:
 ---
-##### <a href="https://www.linkedin.com/in/cameron-allan-06b97295/">LinkedIn</a>
+##### <a href="https://www.linkedin.com/in/cameron-allan-06b97295/">For further information please see my LinkedIn profile</a>
 ### University of Manchester  
 #### Computer Science BSc 2015–2018  
 ##### (Excerpt From January 2018)     
@@ -29,20 +29,16 @@ Working for Professor Jim Miles at the University of Manchester to create a resp
 #### Hydro-Logic Bromyard  
 Web Backend Development May 2013   
 * Worked with clients to develop a front-end interface for storing and accessing client location details.  
+
 #### QEHC Academy Bromyard    
 Server Backend Maintenance and Administration June 2013  
 * Spent several weeks working alongside IT staff to re-fit new classrooms with back-end equipment.
 
-### Other Work  
-#### Wat Hangdong School for Monks Hang Dong, Thailand  
-English Teacher February 2015 - May 2015
-* Teaching and leading the English department of a school for novice monks. Responsible for over 70 students ranging in age and ability. I also taught a seperate class to the other teachers at the school.
-
 ### Leadership  
 #### Faculty Board  
-Kilburn Volunteers Group January 2017 - Present
+Kilburn Volunteers Group January 2017 - October 2017
 * I run, alongside a research associate at the university, a volunteer group with outreach links to the community, aiming to improve computer literacy for those at risk of homelessness, or part of vulnerable groups in society.
-The Mustard Tree April 2016 - Present
+The Mustard Tree April 2016 - October 2017
 * I spend 1 day a week teaching an IT class in the Northern Quarter of Manchester.
 University of Manchester September 2015 - 2017  
 * Representing my department as part of the greater University faculty board.  
