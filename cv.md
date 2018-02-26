@@ -36,14 +36,13 @@ Server Backend Maintenance and Administration June 2013
 
 ### Leadership  
 #### Faculty Board  
-Kilburn Volunteers Group January 2017 - October 2017
+##### Kilburn Volunteers Group January 2017 - October 2017  
 * I run, alongside a research associate at the university, a volunteer group with outreach links to the community, aiming to improve computer literacy for those at risk of homelessness, or part of vulnerable groups in society.
-The Mustard Tree April 2016 - October 2017
-* I spend 1 day a week teaching an IT class in the Northern Quarter of Manchester.
-University of Manchester September 2015 - 2017  
-* Representing my department as part of the greater University faculty board.  
-Department Student-Staff Committee  
-University of Manchester October 2015 - 2017  
+
+##### The Mustard Tree April 2016 - October 2017  
+* Spent 1 day a week teaching an IT class in the Northern Quarter of Manchester.
+
+##### Department Student-Staff Committee  
 * Elected by my peers to represent my year group within the department.  
   
 ### Achievements  
