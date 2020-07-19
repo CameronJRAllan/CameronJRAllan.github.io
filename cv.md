@@ -4,6 +4,18 @@ title: CV
 subtitle:
 ---
 ##### <a href="https://www.linkedin.com/in/cameron-allan-06b97295/">For further information please see my LinkedIn profile</a>
+### Digital Applications International
+#### Sept 2018 - Now
+#### Role
+Graduate Software Engineer
+
+#### Key Achievements
+Organised the inaugural D.A.I Hackathon, providing a platform for colleagues to collaborate on ideas surrounding AI, Computer Vision and more in a low-risk environment outside of the pressures of typical development.
+
+Leading development for some of our largest customer changes after 18 months of employment.
+
+Commended on communication skills with both other Software Engineers our customers are partnered with, and those implementing the business requirements our software delivers on
+
 ### University of Manchester  
 #### Computer Science BSc 2015–2018  
 ##### (Excerpt From January 2018)     

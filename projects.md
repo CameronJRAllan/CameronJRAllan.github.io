@@ -3,6 +3,12 @@ layout: page
 title: Projects
 subtitle: Here's Some Of My Work
 ---
+### Yaml for Files
+#### July 2020 - Present
+A Python program for organising files based on YAML-defined rules, either by keywords or file extensions.
+
+Written in mind for use with torrent clients with the ability to trigger an arbitrary command on completion.
+
 ### Meta-Data for Live Music
 #### September 2017 - Present
 Working with semantic, linked data related to historical live music performances to remove technical and usability barriers towards accessing this information. To achieve this I am working with Python 3, Qt / PyQt, and the semantic querying language, SPARQL. This project is supervised by Sean Bechhofer.
